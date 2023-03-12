@@ -1,77 +1,100 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     border: 0;
 }
 
-body{
+body {
     font-family: Lato, sans-serif;
     font: weight 300px;
     color: #3a3a3a;
 }
-h2,h3{
+
+h2,
+h3 {
 
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
 }
-#logo{
+
+#logo {
     font-size: 280%;
-    float:left;
-    margin-left:30px;
+    float: left;
+    margin-left: 30px;
 
 }
 
 /* negative */
 
-#menu{
+#menu {
     font-size: 100%;
     letter-spacing: 4px;
 
 }
-#menu, #logo{
+
+#menu,
+#logo {
     line-height: 75px;
 }
 
-#menu li{
+#menu li {
 
-    float:right;
+    float: right;
     list-style-type: none;
     margin-right: 30px;
 
 }
- 
-#menu a{
+
+#menu a {
     text-decoration: none;
-    color:inherit;
+    color: inherit;
 }
 
-#menu a:hover{
-    border-bottom: 1px solid #3a3a3a ;
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
 }
 
-.active{
-    border-bottom: 1px solid #3a3a3a ;
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 
-#second{
-    height:600px;
+#second {
+    height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#back{
+#back {
     background: url(/asset/images/Full\ View.jpeg) no-repeat center center;
-    height:800px;
+    height: 800px;
     width: 100%;
     background-size: 100%;
+    animation: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+
 }
-#third{
+
+/* creat level of zoom for hero image */
+
+@keyframes hero-zoom {
+
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+#third {
 
     font-size: 130%;
     font-family: Oswald, sans-serif;
@@ -89,6 +112,6 @@ h2,h3{
     bottom: 20px;
     right: 200px;
 
-    position:absolute;
+    position: absolute;
 
 }
