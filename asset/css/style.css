@@ -116,52 +116,96 @@ h3 {
 
 }
 
-#places{
-     height:300px;
-     width:100%;
-     
-     text-align: center;
-     background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
-     overflow: hidden;
-     margin-top: 10px;
-     background-size: 20%;
-     position: absolute;
-     right:750px;
+#left{
+
+    float:left;
 }
-#places >h3{
+
+#center {
     text-align: center;
-    margin-top: 70px;
-   font-size: 280%;
+    margin-top: 30px;
+    font-size: 150%;
+    text-decoration: underline;
 }
-#places2{
-    height:300px;
-    width:100%;
+#left li{
+    float:left;
+    list-style-type: none;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+
+#places {
+    height: 300px;
+    width: 100%;
+
     text-align: center;
     background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
     overflow: hidden;
     margin-top: 10px;
-    background-size: 20%;
-    position: absolute;
-    right: 350px;
+    background-size: 200%;
+    /*position: absolute;
+    right: 600px;*/
 }
-#places2 >h3{
+
+#places>h3 {
     text-align: center;
     margin-top: 70px;
-   font-size: 280%;
+    font-size:130%;
 }
-#places3{
-    height:300px;
-    width:100%;
+
+#places2 {
+    height: 300px;
+    width: 100%;
     text-align: center;
     background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
     overflow: hidden;
     margin-top: 10px;
-    background-size: 20%;
-    position: absolute;
-    right: -50px;
+    background-size:200%;
+    /*position: absolute;
+    right: 350px;*/
 }
-#places3 >h3{
+
+#places2>h3 {
     text-align: center;
     margin-top: 70px;
-   font-size: 280%;
+    font-size: 130%;
+}
+
+#places3 {
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
+    overflow: hidden;
+    margin-top: 10px;
+    background-size: 200%;
+    /*position: absolute;
+    right: 100px;*/
+}
+
+#places3>h3 {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 130%;
+}
+
+#places4 {
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
+    overflow: hidden;
+    margin-top: 10px;
+    background-size: 200%;
+   /* position: absolute;
+    right: -70px;*/
+}
+
+#places4>h3 {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 130%;
 }
