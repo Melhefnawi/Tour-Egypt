@@ -115,3 +115,38 @@ h3 {
     position: absolute;
 
 }
+
+#places{
+     height:300px;
+     width:100%;
+     background-color:red ;
+     text-align: center;
+     background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
+     overflow: hidden;
+     margin-top: 10px;
+     background-size: 20%;
+     position: absolute;
+     right:750px;
+}
+#places >h3{
+    text-align: center;
+    margin-top: 70px;
+   font-size: 280%;
+}
+#places2{
+    height:300px;
+    width:100%;
+    background-color:red ;
+    text-align: center;
+    background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
+    overflow: hidden;
+    margin-top: 10px;
+    background-size: 20%;
+    position: absolute;
+    right: 350px;
+}
+#places2 >h3{
+    text-align: center;
+    margin-top: 70px;
+   font-size: 280%;
+}
