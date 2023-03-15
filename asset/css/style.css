@@ -12,8 +12,7 @@ body {
     color: #3a3a3a;
 }
 
-h2,
-h3 {
+h2, h3 {
 
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
@@ -36,8 +35,7 @@ h3 {
 
 }
 
-#menu,
-#logo {
+#menu, #logo {
     line-height: 75px;
 }
 
@@ -72,7 +70,7 @@ h3 {
 
 #back {
     background: url(/asset/images/Full\ View.jpeg) no-repeat center center;
-    height: 800px;
+    height: 900px;
     width: 100%;
     background-size: cover;
     animation: hero-zoom;
@@ -387,7 +385,7 @@ h3 {
 }
 
 .left-about-heading {
-    width: 60%;
+    width: 90%;
     float: right;
     line-height: 20px;
     clear: both;
@@ -402,7 +400,7 @@ hr {
 }
 
 .right-about-heading {
-    width: 60%;
+    width: 90%;
     float: left;
     line-height: 20px;
     clear: both;
@@ -444,8 +442,7 @@ hr {
 
 footer {
 
-    width: 100%;
-    height: 300px;
+    height: 150px;
 }
 
 footer>h2 {
@@ -456,32 +453,118 @@ footer>h2 {
     margin: 50px;
 }
 
-#center-1 {
-
-    height:100px;
-    width: 30px;
-    background-color:red;
-    position: relative;
-    left:40%;
-    
-    
-    
-}
-
 #footer-left {
-    float: left;
+    
     list-style-type: none;
     text-align: center;
 
 }
 
 #footer-left li {
-    float: right;
-    width: 30px;
+    display: inline;
+    margin:30px;
+    
 
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
+}
 
+#footer-left i {
+    color:#3a3a3a;
+    font-size: 160%;
+    margin:1%;
+    padding:5%;
+
+}
+
+/* media queries */
+
+/* for large & medium screen size*/
+
+@media screen and (max-width:1200px){
+
+    #weather{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    
+    #weather>h2{
+        padding: 150px 0;
+        margin:0;
+    }
+
+    #left-about, #right-about{
+
+        width:100%;
+        float:left;
+        padding:0;
+    }
+
+    #center-about{
+        clear:both;
+        width:100%;
+        float:left;
+        padding:0;
+    
+    }
+    
+
+    hr{
+        display:none;
+    }
+}
+
+/* for medium screen sizes from 950px and down */
+
+@media screen and (max-width:950){
+
+    #menu{
+        clear:left;
+        float:left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #third{
+        left:0;
+    
+    }
+
+    #second{
+        width:90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #weather{
+        width:90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    
+    footer{
+        width:100%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+
+    
+.left-about, .right-about{
+    width:inherit;
+}
+
+.left-about-heading h2, .right-about-heading h2 {
+    width:100%;
+    text-align: center;
+}
+.left-about-heading p, .right-about-heading p{
+    text-align: center;
+    padding: 0 20px;
+}
+
+
+
+    
 }
