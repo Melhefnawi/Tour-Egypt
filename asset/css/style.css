@@ -572,6 +572,8 @@ footer>h2 {
 
     height:600px;
     background-color: aqua;
+    background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
+    background-size: cover;
     overflow: hidden;
     position: relative;
 }
@@ -603,8 +605,11 @@ footer>h2 {
 
 #form-header{
 
-    
-    margin: 20px 10px;
+    text-align:right;
+    vertical-align:super;
+    margin: 10px 10px;
+    font-weight: 10px;
+    font-size: 20px;
     
 
 }
