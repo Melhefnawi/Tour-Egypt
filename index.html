@@ -131,12 +131,13 @@
     </section>
     <section id="form-sec">
         <form  method="POST" action="https://formdump.codeinstitute.net/" class="signup" >
+            <h2 id="form-header">lets get you sign up</h2>
             <label for="name">First-Name</label>
-            <input type="text" id="name" class="text-input">
+            <input type="text" id="name" name="first_name" class="text-input" required>
             <label for="name-last">Last-Name</label>
-            <input type="text" id="name-last" class="text-input">
+            <input type="text" id="name-last"  name="last_name"  class="text-input" required>
             <label for="email">Email-Address</label>
-            <input type="email" id="email" class="text-input">
+            <input type="email" id="email" name="email_address" class="text-input" required>
         </form>
     </section>
     <footer >
