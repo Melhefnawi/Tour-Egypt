@@ -153,8 +153,7 @@ h3 {
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-    /*position: absolute;
-    right: 600px;*/
+   
 }
 
 #places>h3 {
@@ -175,8 +174,7 @@ h3 {
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-    /*position: absolute;
-    right: 350px;*/
+  
 }
 
 #places2>h3 {
@@ -193,12 +191,10 @@ h3 {
     background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
     overflow: hidden;
     margin-top: 10px;
-
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-    /*position: absolute;
-    right: 100px;*/
+   
 }
 
 #places3>h3 {
@@ -218,8 +214,7 @@ h3 {
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-    /* position: absolute;
-    right: -70px;*/
+   
 }
 
 #places4>h3 {
@@ -240,8 +235,7 @@ h3 {
     border: 1px solid black;
     border-radius: 20px;
     clear: both;
-    /* position: absolute;
-    right: -70px;*/
+  
 }
 
 #places5>h3 {
@@ -258,12 +252,10 @@ h3 {
     background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
     overflow: hidden;
     margin-top: 10px;
-
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-    /* position: absolute;
-    right: -70px;*/
+   
 }
 
 #places6>h3 {
@@ -283,8 +275,7 @@ h3 {
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-    /* position: absolute;
-    right: -70px;*/
+  
 }
 
 #places7>h3 {
@@ -304,8 +295,7 @@ h3 {
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-    /* position: absolute;
-    right: -70px;*/
+  
 }
 
 #places8>h3 {
@@ -325,8 +315,7 @@ h3 {
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-    /* position: absolute;
-    right: -70px;*/
+   
 }
 
 #places9>h3 {
@@ -346,8 +335,7 @@ h3 {
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-    /* position: absolute;
-    right: -70px;*/
+   
 }
 
 #places10>h3 {
@@ -493,6 +481,12 @@ footer>h3 {
 
     #weather {
         width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #second {
+        width: 100%;
         height: 1200px;
         margin: 0 auto;
     }
