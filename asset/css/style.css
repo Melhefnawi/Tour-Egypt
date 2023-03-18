@@ -452,7 +452,13 @@ footer>h2 {
     font-size: 200%;
     text-transform: uppercase;
     text-decoration: underline;
-    margin: 50px;
+    margin: 30px;
+}
+
+footer>h3{
+     text-align: center;
+     padding:2px;
+     color:black;
 }
 
 #footer-left {
@@ -464,7 +470,7 @@ footer>h2 {
 
 #footer-left li {
     display: inline;
-    margin:30px;
+    margin:10px;
     
 
 }
@@ -473,7 +479,7 @@ footer>h2 {
     color:#3a3a3a;
     font-size: 160%;
     margin:1%;
-    padding:5%;
+    padding:2%;
 
 }
 
@@ -584,7 +590,7 @@ footer>h2 {
    color: #fafafa;
    background-color: rgba(60,60,60,0.6);
    position: absolute;
-   left:30%;
+   left:10%;
    top:30%;
    padding:30px;
 
@@ -611,5 +617,20 @@ footer>h2 {
     font-weight: 10px;
     font-size: 20px;
     
+
+}
+
+#signtoday{
+
+    
+    width: 400px;
+    height:400px;
+    background-color: rgba(60,60,60,0.6);
+    color:#fafafa;
+    position: absolute;
+    right: 20%;
+    top:20%;
+    padding:20px;
+    text-decoration: underline;
 
 }
