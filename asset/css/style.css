@@ -576,7 +576,7 @@ footer>h3{
 
 #form-sec{
 
-    height:600px;
+    height:700px;
     background-color: aqua;
     background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
     background-size: cover;
@@ -584,9 +584,17 @@ footer>h3{
     position: relative;
 }
 
+#form-sec>h2{
+
+    text-align: center;
+    font-size: 200%;
+    text-decoration:underline ;
+}
+
 .signup{
 
    max-width: 400px;
+  
    color: #fafafa;
    background-color: rgba(60,60,60,0.6);
    position: absolute;
@@ -611,11 +619,12 @@ footer>h3{
 
 #form-header{
 
-    text-align:right;
+    text-align:left;
     vertical-align:super;
+    color:#fafafa;
     margin: 10px 10px;
     font-weight: 10px;
-    font-size: 20px;
+    font-size: 160%;
     
 
 }
@@ -623,14 +632,21 @@ footer>h3{
 #signtoday{
 
     
-    width: 400px;
-    height:400px;
+    width: 600px;
+    height:500px;
     background-color: rgba(60,60,60,0.6);
     color:#fafafa;
     position: absolute;
-    right: 20%;
-    top:20%;
+    left: 50%;
+    top:15%;
     padding:20px;
     text-decoration: underline;
 
+}
+
+#signtoday>h2{
+
+    text-transform: uppercase;
+    color: #fafafa;
+    font-size: 280%;
 }
