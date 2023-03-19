@@ -15,4 +15,4 @@ Egypt has one of the best beaches in the world (Mediterranean Sea & Red sea), wh
 - The other navigation links are to the right, which link to different sections of the same page. 
 - The navigation clearly tells the user the name of the site and makes the different section of information easy to find. 
 
-<img src="asset/images/Tour Egypt.PNG" alt="Tour Egypt" width="200" height="200">
+<img src="asset/images/Capture.JPG" alt="Tour Egypt" width="500" height="400">
