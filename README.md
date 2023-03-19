@@ -14,3 +14,5 @@ Egypt has one of the best beaches in the world (Mediterranean Sea & Red sea), wh
 - Featured at the top of the page, that navigation shows the site name in the left corner: Tour Egypt that links to the top of the page.
 - The other navigation links are to the right, which link to different sections of the same page. 
 - The navigation clearly tells the user the name of the site and makes the different section of information easy to find. 
+
+<img src="asset/images/Tour Egypt.PNG" alt="Tour Egypt" width="200" height="200">
