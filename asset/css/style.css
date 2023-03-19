@@ -71,11 +71,11 @@ h3 {
 }
 
 #back {
-    background: url(/asset/images/Egypt.jpg) no-repeat center center;
+    background: url(/asset/images/Pyramid\ of\ Djosur.jpeg) no-repeat center center;
     height: 600px;
     width: 100%;
     background-size:cover;
-    /*animation: hero-zoom;
+    animation: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 
@@ -91,7 +91,7 @@ h3 {
 
     to {
         transform: scale(1.1);
-    }*/
+    }
 }
 
 #third {
