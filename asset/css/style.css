@@ -70,29 +70,30 @@ h3 {
     position: relative;
 }
 
-#back {
+#hero-image{
     height: 600px;
-    width: 100%;
-    background: url(/asset/images/Full\ View.jpeg) no-repeat center center;
-    
-    animation: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+    width:100%;
+    background: url(../images/hero-image\ \(1\).webp) no-repeat center center;
+/* animation when loading the apge*/
+
+animation: hero-zoom;
+animation-duration: 5s;
+animation-fill-mode: forwards;
 
 }
 
-
+/* creat level of zoom for hero image */
 
 @keyframes hero-zoom {
 
-    from {
+    from{
         transform: scale(1);
     }
-
-    to {
-        transform: scale(1.9);
+    to{
+        transform: scale(1.1);
     }
 }
+
 
 #third {
 
