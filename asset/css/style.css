@@ -75,13 +75,13 @@ h3 {
     height: 600px;
     width: 100%;
     background-size:cover;
-    animation: hero-zoom;
+    /*animation: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 
 }
 
-/* creat level of zoom for hero image */
+
 
 @keyframes hero-zoom {
 
@@ -91,7 +91,7 @@ h3 {
 
     to {
         transform: scale(1.1);
-    }
+    }*/
 }
 
 #third {
