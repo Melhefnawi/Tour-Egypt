@@ -64,7 +64,7 @@ h3 {
 
 
 #second {
-    height: 600px;
+    height: 700px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -75,6 +75,7 @@ h3 {
     width:100%;
     background: url(../images/pexels-david-mceachan-71241.jpg) no-repeat center center;
     background-size: cover;
+    overflow: hidden;
 /* animation when loading the apge*/
 
 animation: hero-zoom;
@@ -91,7 +92,7 @@ animation-fill-mode: forwards;
         transform: scale(0.5);
     }
     to{
-        transform: scale(0.8);
+        transform: scale(1);
     }
 }
 
