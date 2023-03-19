@@ -74,7 +74,7 @@ h3 {
     background: url(/asset/images/Full\ View.jpeg) no-repeat center center;
     height: 900px;
     width: 100%;
-    background-size: cover;
+    background-size:cover;
     animation: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -100,18 +100,13 @@ h3 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-
     width: 300px;
     height: 200px;
-
     padding-top: 40px;
     padding-left: 10px;
-
     background-color: rgba(241, 109, 107, .7);
-
     bottom: 20px;
     right: 200px;
-
     position: absolute;
 
 }
@@ -487,8 +482,14 @@ footer>h3 {
 
     #second {
         width: 100%;
-        height: 1200px;
+        height: 900px;
         margin: 0 auto;
+    }
+    #third{
+
+        left: 10px;
+        bottom: 300px;
+        width:200px;
     }
 
     #weather>h2 {
@@ -533,66 +534,39 @@ footer>h3 {
 
 /* for medium screen sizes from 950px and down */
 
-@media screen and (max-width:950) {
+@media screen and (max-width:950px){
 
-    #menu {
-        clear: left;
-        float: left;
+    #menu{
+        clear:left;
+        float:left;
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
     }
-
-    #third {
-        left: 0;
-
+    
+    #cover-text{
+        left:0;
+    
     }
-
-    #second {
-        width: 90%;
+    
+    #club-ethos{
+        width:90%;
         height: 1200px;
         margin: 0 auto;
     }
-
-    #weather {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
+    
+    .left-about-heading, .right-about-heading{
+        width:inherit;
     }
-
-
-    footer {
-        width: 100%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-
-
-    .left-about,
-    .right-about {
-        width: inherit;
-    }
-
-    .left-about-heading h2,
-    .right-about-heading h2 {
-        width: 100%;
+    
+    .left-about-heading h2, .right-about-heading h2 {
+        width:100%;
         text-align: center;
     }
-
-    .left-about-heading p,
-    .right-about-heading p {
+    .left-about-heading p, .right-about-heading p{
         text-align: center;
         padding: 0 20px;
     }
-
-    #signtoday{
-
-        width: 100%;
-    }
-
-
-
 }
 
 #form-sec {
