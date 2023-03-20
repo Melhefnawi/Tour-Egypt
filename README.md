@@ -5,7 +5,7 @@ Egypt is one of the historic country, it contain alot of history from the edge o
 Visiting Egypt will help you understand history with a whole view of different historic periods and let you see how acient history was created.
 Egypt has one of the best beaches in the world (Mediterranean Sea & Red sea), where you can enjoy all the sea sports from diving snorkling, sea trips, water games, the weather is sunny alomst the whole year and you have different options of places to enjoy the sun.
 
-<img src="asset/images/E1.jpeg" alt="Tour Egypt" width="200" height="50">
+<img src="asset/images/E1.png" alt="Tour Egypt" width="200" height="50">
 
 # Features
 
