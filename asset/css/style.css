@@ -89,7 +89,7 @@ animation-fill-mode: forwards;
 @keyframes hero-zoom {
 
     from{
-        transform: scale(0.5);
+        transform: scale(0.85);
     }
     to{
         transform: scale(1);
