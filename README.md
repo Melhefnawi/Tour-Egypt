@@ -41,13 +41,10 @@ The Sign Up Page
 This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
 
 # Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+-I tested that this page works indifferent browser: Chrome, FireFox, Safari.
+-I confirmed that this project is responsive, look good and functions on all standard screen sizes using the ami.responsivedesign.is
+-I conformed that the navigation, header, sign up and contact us text are all readable and easy to understand.
+-I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works. 
 
 ## Validator Testing
 HTML
