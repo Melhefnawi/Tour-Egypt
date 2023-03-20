@@ -5,7 +5,7 @@ Egypt is one of the historic country, it contain alot of history from the edge o
 Visiting Egypt will help you understand history with a whole view of different historic periods and let you see how acient history was created.
 Egypt has one of the best beaches in the world (Mediterranean Sea & Red sea), where you can enjoy all the sea sports from diving snorkling, sea trips, water games, the weather is sunny alomst the whole year and you have different options of places to enjoy the sun.
 
-<img src="asset/images/T1.PNG" alt="Tour Egypt" width="700" height="60">
+<img src="asset/images/K1.PNG" alt="Tour Egypt" width="400" height="20">
 
 # Features
 
@@ -20,28 +20,28 @@ Egypt has one of the best beaches in the world (Mediterranean Sea & Red sea), wh
 # The landing page image
 
 The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-This section introduces the user to Love Running with an eye catching animation to grab their 
+This section introduces the user to Tour Egypt with an eye catching animation to grab their attention showing the Great Pyramids of GIZA.
 
 <img src="asset/images/Aswan.jpeg" alt="Tour Egypt" width="500" height="400">
 
 # Places to visit Section
 
-The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise
+The Places to visit section will allow the user to see the varity of location they can visit when they are in Egypt, giving them a small view of the beauty of each location and what specialize that location. 
+This user will see the value of varity to have in one place, This should encourage the user to consider going not just for the weather and beautiful beaches but also for the history that spread in every location you are in Egypt.
 
 <img src="asset/images/Capture.JPG" alt="Tour Egypt" width="500" height="400">
 
-# Times section
+# Best time to visit section
 
-This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
+This section will allow the user to see exactly when they can decide to travel and best timing according to their need, it gives a full description of the weather and places suitable for this time of the year.
 This section will be updated as these times change to keep the user up to date.
 
 <img src="asset/images/Capture.JPG" alt="Tour Egypt" width="500" height="400">
 
 # The Footer
 
-The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-The footer is valuable to the user as it encourages them to keep connected via social
+The footer section includes links to the relevant social media sites for Tour Egypt. The links will open to a new tab to allow easy navigation for the user.
+The footer is valuable to the user as it encourages them to keep connected via social and also by Phone or email address to have fast response on any query.
 
 
 
@@ -51,7 +51,7 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 # The Sign Up Page
 
-This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
+This page will allow the user to get signed up to Tour Egypt to start their journey to Egypt. The user will be able specify if they would like to take part in in the winter or summer trips and the available location to visite in this time of year. The user will be asked to submit their full name and email address.
 
 <img src="asset/images/Capture.JPG" alt="Tour Egypt" width="500" height="400">
 
@@ -94,12 +94,13 @@ The live link can be found here - https://melhefnawi.github.io/Tour-Egypt/
 # Credits
 
 ## Content
-The text for the Home page was taken from CI LOVE RUNNING Project
+
+The text for the Home page was taken from CI LOVE RUNNING Project.
 Instructions on how to implement form validation on the Sign Up page was taken from CI Love Running Project.
 Some of the code names, ids, classes,animation and media query was taken from the CI Love Running Project.
-The icons in the footer were taken from Font Awesome
-## Media
-The photos used on the home and sign up page are from This Open Source site
-The images used for the gallery page were taken from this other open source site
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
+The icons in the footer were taken from Font Awesome.
 
+## Media
+
+The photos used on the home and sign up page are from This Open Source site
+The images used for the gallery page were taken from this other open source site.
