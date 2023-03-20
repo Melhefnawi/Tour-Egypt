@@ -5,7 +5,7 @@ Egypt is one of the historic country, it contain alot of history from the edge o
 Visiting Egypt will help you understand history with a whole view of different historic periods and let you see how acient history was created.
 Egypt has one of the best beaches in the world (Mediterranean Sea & Red sea), where you can enjoy all the sea sports from diving snorkling, sea trips, water games, the weather is sunny alomst the whole year and you have different options of places to enjoy the sun.
 
-<img src="asset/images/Tour Egypt.PNG" alt="Tour Egypt" width="200" height="200">
+<img src="asset/images/Tour.JPG" alt="Tour Egypt" width="1200" height="600">
 
 # Features
 
@@ -17,30 +17,46 @@ Egypt has one of the best beaches in the world (Mediterranean Sea & Red sea), wh
 
 <img src="asset/images/Capture.JPG" alt="Tour Egypt" width="500" height="400">
 
-The landing page image
-The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-This section introduces the user to Love Running with an eye catching animation to grab their attention
+# The landing page image
 
-Club Ethos Section
+The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
+This section introduces the user to Love Running with an eye catching animation to grab their 
+
+<img src="asset/images/Aswan.jpeg" alt="Tour Egypt" width="500" height="400">
+
+# Places to visit Section
 
 The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
 This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise
 
-Meetup Times section
+<img src="asset/images/Capture.JPG" alt="Tour Egypt" width="500" height="400">
+
+# Times section
 
 This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
 This section will be updated as these times change to keep the user up to date.
 
-The Footer
+<img src="asset/images/Capture.JPG" alt="Tour Egypt" width="500" height="400">
+
+# The Footer
 
 The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-The footer is valuable to the user as it encourages them to keep connected via social media
+The footer is valuable to the user as it encourages them to keep connected via social
 
-The Sign Up Page
+
+
+<img src="asset/images/Capture.JPG" alt="Tour Egypt" width="500" height="400">
+
+
+
+# The Sign Up Page
 
 This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
 
+<img src="asset/images/Capture.JPG" alt="Tour Egypt" width="500" height="400">
+
 # Testing
+
 - I tested that this page works indifferent browser: Chrome, FireFox, Safari.
 - I confirmed that this project is responsive, look good and functions on all standard screen sizes using the ami.responsivedesign.is
 - I conformed that the navigation, header, sign up and contact us text are all readable and easy to understand.
@@ -54,7 +70,7 @@ This page will allow the user to get signed up to Love Running to start their ru
 - I kept trying till i found the suitable image that fits /suits my page.
 - I adjusted the image /fixed the problem.
 
-## Validator 
+# Validator 
 
 ## HTML
 No errors were returned when passing through the official W3C validator
@@ -63,10 +79,10 @@ No errors were found when passing through the official (Jigsaw) validator
 ## Accessibility 
 I confirm that the color and fonts chossen are easy to read and accessible by running it through lighthouse in devtool
 
-## Unfixed Bugs
+# Unfixed Bugs
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
-## Deployment
+# Deployment
 
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
