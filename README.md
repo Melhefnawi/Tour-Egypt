@@ -77,7 +77,9 @@ No errors were returned when passing through the official W3C validator
 ## CSS
 No errors were found when passing through the official (Jigsaw) validator
 ## Accessibility 
-I confirm that the color and fonts chossen are easy to read and accessible by running it through lighthouse in devtool
+I confirm that the color and fonts chossen are easy to read and accessible by running it through lighthouse in 
+
+<img src="asset/images/m2.JPG" alt="Tour Egypt" width="600" height="300">
 
 # Unfixed Bugs
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
