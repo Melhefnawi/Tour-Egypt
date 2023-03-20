@@ -41,21 +41,33 @@ The Sign Up Page
 This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
 
 # Testing
--I tested that this page works indifferent browser: Chrome, FireFox, Safari.
--I confirmed that this project is responsive, look good and functions on all standard screen sizes using the ami.responsivedesign.is
--I conformed that the navigation, header, sign up and contact us text are all readable and easy to understand.
--I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works. 
+- I tested that this page works indifferent browser: Chrome, FireFox, Safari.
+- I confirmed that this project is responsive, look good and functions on all standard screen sizes using the ami.responsivedesign.is
+- I conformed that the navigation, header, sign up and contact us text are all readable and easy to understand.
+- I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works. 
 
-## Validator Testing
-HTML
+## Bugs
+
+### Solve bugs
+- When i deployed my project to GitHub Pages i discovered the main image is not showing, the size of the image wasnot the right one.
+- I decided this because, i tried to use different images with different sizes and i always had the same error.
+- I kept trying till i found the suitable image that fits /suits my page.
+- I adjusted the image /fixed the problem.
+
+## Validator 
+
+## HTML
 No errors were returned when passing through the official W3C validator
-CSS
+## CSS
 No errors were found when passing through the official (Jigsaw) validator
+## Accessibility 
+I confirm that the color and fonts chossen are easy to read and accessible by running it through lighthouse in devtool
+
 ## Unfixed Bugs
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
 ## Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
@@ -63,32 +75,15 @@ From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found here - https://melhefnawi.github.io/Tour-Egypt/
 
-## Credits
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
+# Credits
 
 ## Content
-The text for the Home page was taken from Wikipedia Article A
-Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
+The text for the Home page was taken from CI LOVE RUNNING Project
+Instructions on how to implement form validation on the Sign Up page was taken from CI Love Running Project.
+Some of the code names, ids, classes,animation and media query was taken from the CI Love Running Project.
 The icons in the footer were taken from Font Awesome
 ## Media
 The photos used on the home and sign up page are from This Open Source site
 The images used for the gallery page were taken from this other open source site
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
 
-## Other General Project Advice
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through this article by Chris Beams on How to Write a Git Commit Message
-
-Make sure to keep the messages in the imperative mood
-When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-
-Writing Your Best Code
-HTML & CSS Coding Best Practices
-Google HTML/CSS Style Guide
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
