@@ -122,6 +122,8 @@ animation-fill-mode: forwards;
 
 #places_to_visit {
     clear: both;
+    height: 600px;
+    background-color:red ;
 }
 
 #left {
@@ -531,12 +533,18 @@ footer>h3 {
 
         left: 10px;
         bottom: 300px;
-        width:200px;
+        width:300px;
     }
 
     #weather>h2 {
         padding: 150px 0;
         margin: 0;
+    }
+    #places_to_visit {
+       
+        height: 1200px;
+        overflow: hidden;
+        
     }
 
     #left-about,
