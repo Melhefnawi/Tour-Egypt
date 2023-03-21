@@ -121,13 +121,16 @@ animation-fill-mode: forwards;
 }
 
 #places_to_visit {
-    clear: both;
+   
     height: 600px;
     background-color:red ;
 }
 
 #left {
 
+    display: inline;
+}
+#image{
     float: left;
 }
 
@@ -158,8 +161,8 @@ animation-fill-mode: forwards;
 
 
 #places {
-    height: 100px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     text-align: center;
     background: url(../images/Hurghada.jpeg) no-repeat center center;
     overflow: hidden;
@@ -335,49 +338,7 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
-#places9 {
-    height: 100px;
-    width: 200px;
-    text-align: center;
-    background: url(../images/Dahab.jpeg) no-repeat center center;
-    overflow: hidden;
-    margin-top: 10px;
-    background-size: cover;
-    border: 1px solid black;
-    border-radius: 20px;
-   
-}
 
-#places9>h3 {
-    text-align: center;
-    margin-top: 70px;
-    font-size: 130%;
-    overflow: auto;
-    background-color:rgba(60, 60, 60, 0.6) ;
-    color: #fafafa;
-}
-
-#places10 {
-    height: 100px;
-    width: 200px;
-    text-align: center;
-    background: url(../images/Pyramid\ of\ Djosur.jpeg) no-repeat center center;
-    overflow: hidden;
-    margin-top: 10px;
-    background-size: cover;
-    border: 1px solid black;
-    border-radius: 20px;
-   
-}
-
-#places10>h3 {
-    text-align: center;
-    margin-top: 70px;
-    font-size: 130%;
-    overflow: auto;
-    background-color:rgba(60, 60, 60, 0.6) ;
-    color: #fafafa;
-}
 
 #weather {
     height: 600px;
