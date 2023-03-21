@@ -161,8 +161,8 @@ animation-fill-mode: forwards;
 
 
 #places {
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
     text-align: center;
     background: url(../images/Hurghada.jpeg) no-repeat center center;
     overflow: hidden;
@@ -182,9 +182,11 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
+
+
 #places2 {
-    height: 100px;
-    width: 200px;
+    height: 400px;
+    width: 400px;
     text-align: center;
     background: url(../images/Cairo.jpeg) no-repeat center center;
     overflow: hidden;
@@ -205,31 +207,11 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
-#places3 {
-    height: 100px;
-    width: 200px;
-    text-align: center;
-    background: url(../images/Sharm\ El-Sheik.jpeg) no-repeat center center;
-    overflow: hidden;
-    margin-top: 10px;
-    background-size: cover;
-    border: 1px solid black;
-    border-radius: 20px;
-   
-}
 
-#places3>h3 {
-    text-align: center;
-    margin-top: 70px;
-    font-size: 130%;
-    overflow: auto;
-    background-color:rgba(60, 60, 60, 0.6) ;
-    color: #fafafa;
-}
 
 #places4 {
-    height: 100px;
-    width: 200px;
+    height: 400px;
+    width: 400px;
     text-align: center;
     background: url(../images/luxor.jpeg) no-repeat center center;
     overflow: hidden;
@@ -249,32 +231,10 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
-#places5 {
-    height: 100px;
-    width: 200px;
-    text-align: center;
-    background: url(../images/Aswan.jpeg) no-repeat center center;
-    overflow: hidden;
-    margin-top: 10px;
-    background-size: cover;
-    border: 1px solid black;
-    border-radius: 20px;
-    clear: both;
-  
-}
-
-#places5>h3 {
-    text-align: center;
-    margin-top: 70px;
-    font-size: 130%;
-    overflow: auto;
-    background-color:rgba(60, 60, 60, 0.6) ;
-    color: #fafafa;
-}
 
 #places6 {
-    height: 100px;
-    width: 200px;
+    height: 400px;
+    width: 400px;
     text-align: center;
     background: url(../images/Alexandria.jpeg) no-repeat center center;
     overflow: hidden;
@@ -294,51 +254,15 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
-#places7 {
-    height: 100px;
-    width: 200px;
-    text-align: center;
-    background: url(../images/Siwa\ Oasis.jpeg) no-repeat center center;
-    overflow: hidden;
-    margin-top: 10px;
-    background-size: cover;
-    border: 1px solid black;
-    border-radius: 20px;
-  
-}
 
-#places7>h3 {
-    text-align: center;
-    margin-top: 70px;
-    font-size: 130%;
-    overflow: auto;
-    background-color:rgba(60, 60, 60, 0.6) ;
+
+.place{
     color: #fafafa;
+    background-color:rgba(60, 60, 60, 0.7) ;
+    position: relative;
+    font-weight: bold;
+    top: 200px;
 }
-
-#places8 {
-    height: 100px;
-    width: 200px;
-    text-align: center;
-    background: url(../images/Giza.jpg) no-repeat center center;
-    overflow: hidden;
-    margin-top: 10px;
-    background-size: cover;
-    border: 1px solid black;
-    border-radius: 20px;
-  
-}
-
-#places8>h3 {
-    text-align: center;
-    margin-top: 70px;
-    font-size: 130%;
-    overflow: auto;
-    background-color:rgba(60, 60, 60, 0.6) ;
-    color: #fafafa;
-}
-
-
 
 #weather {
     height: 600px;
