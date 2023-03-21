@@ -100,13 +100,13 @@ animation-fill-mode: forwards;
 
 #third {
 
-    font-size: 130%;
+    font-size: 120%;
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     width: 300px;
     height: 200px;
-    padding-top: 40px;
+    padding-top: 10px;
     padding-left: 10px;
     background-color: rgba(241, 109, 107, .7);
     bottom: 20px;
@@ -114,8 +114,13 @@ animation-fill-mode: forwards;
     position: absolute;
 
 }
+#third p {
 
-#clear {
+    font-weight:bold;
+    padding:10px;
+}
+
+#places_to_visit {
     clear: both;
 }
 
@@ -374,6 +379,7 @@ animation-fill-mode: forwards;
 
 #weather {
     height: 600px;
+    background-color: aqua;
 
 }
 
