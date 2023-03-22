@@ -262,7 +262,7 @@ animation-fill-mode: forwards;
     text-align: center;
     background: url(../images/Aswan.jpeg) no-repeat center center;
     overflow: hidden;
-    margin-top: 10px;
+    margin-top: 20px;
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
@@ -422,9 +422,21 @@ footer>h3 {
 
 /* media queries */
 
+
+/* for large */
+
+@media screen and (max-width:1700) {
+
+    #places_to_visit {
+   
+        height: 1000px;
+        
+    }
+}
+
 /* for large & medium screen size*/
 
-@media screen and (max-width:1800px) {
+@media screen and (max-width:1200px) {
 
     #weather {
         width: 100%;
@@ -451,7 +463,7 @@ footer>h3 {
     #places_to_visit {
        
         width:100%;
-        height: 1200px;
+        height: 1000px;
         overflow: hidden;
         
     }
@@ -487,7 +499,7 @@ footer>h3 {
        clear:left;
     }
     .place{
-        margin-bottom:10px;
+        margin-bottom:15px;
         height:50px;
         width:300px;
         text-align: center;
