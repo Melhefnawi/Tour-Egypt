@@ -581,6 +581,11 @@ footer>h3 {
         width:30px;
         overflow: scroll;
        }
+       .size_li{
+
+        margin: 0 auto;
+
+       }
 }
 
 #form-sec {
