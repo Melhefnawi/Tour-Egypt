@@ -424,7 +424,7 @@ footer>h3 {
 
 /* for large & medium screen size*/
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1800px) {
 
     #weather {
         width: 100%;
@@ -487,10 +487,46 @@ footer>h3 {
        clear:left;
     }
     .place{
-        margin-bottom:30px;
+        margin-bottom:10px;
+        height:50px;
+        width:300px;
+        text-align: center;
+        font-size: 14px;
+        
+        
     }
 
-    
+    #left li{
+
+        height:150px
+    }
+
+   #places{
+    margin-top: 10px;
+    height:125px;
+    width:300px;
+    margin: 0 auto;
+   }
+   #places2{
+
+    height:125px;
+    width:300px;
+   }
+   #places4{
+
+    height:125px;
+    width:300px;
+   }
+   #places6{
+
+    height:125px;
+    width:300px;
+   }
+   #places8{
+
+    height:125px;
+    width:300px;
+   }
 
 }
 
@@ -537,6 +573,11 @@ footer>h3 {
         text-align: center;
         padding: 0 20px;
     }
+    #places p{
+        height:50px;
+        width:30px;
+        overflow: scroll;
+       }
 }
 
 #form-sec {
