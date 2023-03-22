@@ -423,20 +423,11 @@ footer>h3 {
 /* media queries */
 
 
-/* for large */
 
-@media screen and (max-width:1700) {
-
-    #places_to_visit {
-   
-        height: 1000px;
-        
-    }
-}
 
 /* for large & medium screen size*/
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1700px) {
 
     #weather {
         width: 100%;
@@ -568,7 +559,7 @@ footer>h3 {
     #places_to_visit {
        
         width:100%;
-        height: 1300px;
+        height: 1400px;
         overflow: hidden;
         
     }
