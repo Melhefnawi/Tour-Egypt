@@ -152,9 +152,10 @@ animation-fill-mode: forwards;
 #left li {
     float: left;
     list-style-type: none;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 45px;
+    margin-right: 45px;
     margin-top: 10px;
+    margin-bottom: 50px;
     overflow: visible;
     clear: right;
 }
@@ -215,6 +216,7 @@ animation-fill-mode: forwards;
     background: url(../images/luxor.jpeg) no-repeat center center;
     overflow: hidden;
     margin-top: 10px;
+    
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
@@ -253,6 +255,28 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
+
+#places8 {
+    height:250px;
+    width: 250px;
+    text-align: center;
+    background: url(../images/Aswan.jpeg) no-repeat center center;
+    overflow: hidden;
+    margin-top: 10px;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 20px;
+   
+}
+
+#places8>h3 {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 130%;
+    overflow: auto;
+    background-color:rgba(60, 60, 60, 0.6) ;
+    color: #fafafa;
+}
 
 
 .place{
@@ -461,6 +485,9 @@ footer>h3 {
     #signtoday{
 
        clear:left;
+    }
+    .place{
+        margin-bottom:30px;
     }
 
     
