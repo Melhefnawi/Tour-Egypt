@@ -422,12 +422,19 @@ footer>h3 {
 
 /* media queries */
 
+@media screen and (max-width:1700px){
 
+    #places_to_visit {
+   
+        height: 900px;
+        background-color:aqua;
+    }
+}
 
 
 /* for large & medium screen size*/
 
-@media screen and (max-width:1700px) {
+@media screen and (max-width:1200px) {
 
     #weather {
         width: 100%;
