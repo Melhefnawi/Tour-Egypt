@@ -155,12 +155,13 @@ animation-fill-mode: forwards;
 }
 
 #left li {
-    float: left;
+   /* float: left;*/
+   display:inline-block;
     list-style-type: none;
     margin-left: 55px;
     margin-right: 55px;
-    margin-top: 10px;
-    margin-bottom: 50px;
+    margin-top: 55px;
+    margin-bottom: 55px;
     overflow: visible;
     clear: right;
 }
@@ -173,7 +174,6 @@ animation-fill-mode: forwards;
     background: url(../images/Hurghada.jpeg) no-repeat center center;
     overflow: hidden;
     margin-top: 10px;
-    margin-left: 10px;
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
@@ -431,9 +431,14 @@ footer>h3 {
 
     #places_to_visit {
    
-        height: 900px;
+        height: 950px;
         background-color:red;
         margin: 0 auto;
+    }
+    #pos_rel{
+        position:relative;
+        left:275px;
+        bottom:250px;
     }
 }
 
@@ -514,12 +519,17 @@ footer>h3 {
 
     #left{
 
-        margin: 0 auto;
+        text-align:center;
     }
 
     #left li{
 
-        height:150px
+        height:150px;
+        text-align:center ;
+    }
+    #li_center{
+
+       text-align: center;
     }
 
    #places{
