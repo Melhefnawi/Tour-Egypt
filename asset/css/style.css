@@ -562,6 +562,11 @@ footer>h3 {
 
     text-align: center;
    }
+   #pos_rel{
+    position:relative;
+    left:0px;
+    bottom:0px;
+}
 
 }
 
@@ -618,6 +623,12 @@ footer>h3 {
 
         text-align: center;
        }
+
+       #pos_rel{
+        position:relative;
+        left:0px;
+        bottom:0px;
+    }
 }
 
 #form-sec {
