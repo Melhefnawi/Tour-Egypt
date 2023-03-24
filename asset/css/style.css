@@ -123,18 +123,19 @@ animation-fill-mode: forwards;
 #places_to_visit {
    
     height: 700px;
-    background-color:red ;
+    background-color:rgba(206, 149, 95, 0.733);
    
 }
 
 #left {
-
     display: inline-block;
-    text-align: left;
+    text-align: left; 
 }
+
 .container{
     text-align: center;
 }
+
 #image{
     float: left;
 }
@@ -155,17 +156,14 @@ animation-fill-mode: forwards;
 }
 
 #left li {
-   /* float: left;*/
-   display:inline-block;
+    display:inline-block;
     list-style-type: none;
-    /*margin-left: 55px;*/
     margin-right: 55px;
     margin-top: 55px;
     margin-bottom: 55px;
     overflow: visible;
-   
+    vertical-align:middle;
 }
-
 
 #places {
     height: 250px;
@@ -177,7 +175,6 @@ animation-fill-mode: forwards;
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-   
 }
 
 #places>h3 {
@@ -189,8 +186,6 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
-
-
 #places2 {
     height: 250px;
     width: 250px;
@@ -201,7 +196,6 @@ animation-fill-mode: forwards;
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-  
 }
 
 #places2>h3 {
@@ -213,8 +207,6 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
-
-
 #places4 {
     height: 250px;
     width: 250px;
@@ -225,7 +217,6 @@ animation-fill-mode: forwards;
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-   
 }
 
 #places4>h3 {
@@ -236,7 +227,6 @@ animation-fill-mode: forwards;
     background-color:rgba(60, 60, 60, 0.6) ;
     color: #fafafa;
 }
-
 
 #places6 {
     height:250px;
@@ -260,7 +250,6 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
-
 #places8 {
     height:250px;
     width: 250px;
@@ -271,7 +260,6 @@ animation-fill-mode: forwards;
     background-size: cover;
     border: 1px solid black;
     border-radius: 20px;
-   
 }
 
 #places8>h3 {
@@ -283,48 +271,37 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
-
 .place{
     color: #fafafa;
     font-weight: bold;
     width:250px;
     height:50px;
     padding-top :20px;
-
 }
 
 #weather {
     height: 600px;
     background-color: aqua;
-
 }
 
 #weather>h2 {
-
     text-align: center;
-    
     padding-top: 50px;
     padding-bottom: 50px;
     text-decoration: underline;
-    font-size: 200%;
-    
+    font-size: 200%; 
 }
-
-
-
 
 #left-about {
     padding-top: 30px;
     width: 33%;
     float: left;
-
 }
 
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
-
 }
 
 .left-about-heading {
@@ -333,7 +310,6 @@ animation-fill-mode: forwards;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
-
 }
 
 hr {
@@ -431,11 +407,11 @@ footer>h3 {
 @media screen and (max-width:1500px){
 
     #places_to_visit {
-   
         height: 950px;
-        background-color:red;
+        background-color:rgba(206, 149, 95, 0.733);
         margin: 0 auto;
     }
+
     #pos_rel{
         position:relative;
         left:275px;
