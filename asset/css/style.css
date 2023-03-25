@@ -42,11 +42,9 @@ h3 {
 }
 
 #menu li {
-
     float: right;
     list-style-type: none;
     margin-right: 30px;
-
 }
 
 #menu a {
@@ -66,7 +64,6 @@ h3 {
 #second {
     height: 600px;
     width: 100%;
- 
     position: relative;
 }
 
@@ -76,13 +73,9 @@ h3 {
     background: url(../images/M1.JPG) no-repeat center center;
     background-size: cover;
     overflow: hidden;
-    
-/* animation when loading the apge*/
-
-animation: hero-zoom;
-animation-duration: 2s;
-animation-fill-mode: forwards;
-
+    animation: hero-zoom;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
 }
 
 /* creat level of zoom for hero image */
@@ -99,7 +92,6 @@ animation-fill-mode: forwards;
 
 
 #third {
-
     font-size: 120%;
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
@@ -112,19 +104,16 @@ animation-fill-mode: forwards;
     bottom: 20px;
     right: 200px;
     position: absolute;
-
 }
-#third p {
 
+#third p {
     font-weight:bold;
     padding:10px;
 }
 
 #places_to_visit {
-   
     height: 700px;
     background-color:rgba(206, 149, 95, 0.733);
-   
 }
 
 #left {
@@ -148,9 +137,8 @@ animation-fill-mode: forwards;
     padding:50px;
     background-color: rgba(60, 60, 60, 0.6);
     color:#fafafa ;
-
-
 }
+
 #center>h2{
     color: #fafafa;
 }
@@ -341,8 +329,6 @@ hr {
     overflow: hidden;
     padding-bottom: 300px;
     padding-top: 20px;
-
-
 }
 
 #circle {
@@ -360,11 +346,9 @@ hr {
     background: url(../images/Hurghada-town-in-Egypt-800x599.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
-
 }
 
 footer {
-
     height: 150px;
 }
 
@@ -383,17 +367,13 @@ footer>h3 {
 }
 
 #footer-left {
-
     list-style-type: none;
     text-align: center;
-
 }
 
 #footer-left li {
     display: inline;
     margin: 10px;
-
-
 }
 
 #footer-left i {
@@ -401,7 +381,6 @@ footer>h3 {
     font-size: 160%;
     margin: 1%;
     padding: 2%;
-
 }
 
 /* media queries */
@@ -449,16 +428,13 @@ footer>h3 {
         margin: 0;
     }
     #places_to_visit {
-       
         width:100%;
         height: 800px;
         margin: 0 auto;
-        
     }
 
     #left-about,
     #right-about {
-
         width: 100%;
         float: left;
         padding: 0;
@@ -487,9 +463,7 @@ footer>h3 {
         width: 100%;
         float: left;
         padding: 0;
-
     }
-
 
     hr {
         display: none;
@@ -500,32 +474,30 @@ footer>h3 {
         height: 1300px;
         
     }
+
     #signtoday{
 
        clear:left;
     }
+
     .place{
         margin-bottom:15px;
         height:50px;
         width:300px;
         text-align: center;
         font-size: 14px;
-        
-        
     }
 
     #left{
-
         text-align:center;
     }
 
     #left li{
-
         height:150px;
         text-align:center ;
     }
-    #li_center{
 
+    #li_center{
        text-align: center;
     }
 
@@ -533,32 +505,32 @@ footer>h3 {
     margin-top: 10px;
     height:125px;
     width:300px;
-    
    }
+
    #places2{
-
     height:125px;
     width:300px;
    }
+
    #places4{
-
     height:125px;
     width:300px;
    }
+
    #places6{
-
     height:125px;
     width:300px;
    }
+
    #places8{
-
     height:125px;
     width:300px;
    }
-   .container{
 
+   .container{
     text-align: center;
    }
+
    #pos_rel{
     position:relative;
     left:0px;
@@ -591,12 +563,10 @@ footer>h3 {
     }
 
     #places_to_visit {
-       
         width:100%;
         height: 1500px;
         overflow: hidden;
         margin: 0 auto;
-        
     }
     
     .left-about-heading, .right-about-heading{
@@ -619,12 +589,11 @@ footer>h3 {
         width:30px;
         overflow: scroll;
        }
-       .container{
-
+    .container{
         text-align: center;
        }
 
-       #pos_rel{
+    #pos_rel{
         position:relative;
         left:0px;
         bottom:0px;
@@ -653,18 +622,14 @@ footer>h3 {
 }
 
 .signup {
-
     max-width: 400px;
     color: #fafafa;
     background-color: rgba(60, 60, 60, 0.6);
     margin: 20px 0 0 20px;
     padding: 30px;
-
-
 }
 
 .text-input {
-
     width: 100%;
     height: 25px;
     background-color: transparent;
@@ -672,48 +637,35 @@ footer>h3 {
     margin: 5px 0 10px 0;
     border-radius: 2px;
     color: #fafafa;
-
-
 }
 
 #form-header {
-
     text-align: left;
     vertical-align: super;
     color: #fafafa;
     margin: 10px 10px;
     font-weight:  10;
     font-size: 160%;
-
-
 }
 
 #signtoday {
-
     width: 50%;
     background-color: rgba(60, 60, 60, 0.6);
     color: #fafafa;
     padding: 20px;
-    
-   
-
-
 }
 
 #signtoday,.signup{
-
     display: inline-block;
     margin: 60px;
 }
 
 #signtoday>h2 {
-
     text-transform: uppercase;
     color: #fafafa;
     font-size:160%;
     text-decoration: underline;
     text-align: left;
-   
     margin: 10px;
 }
 
