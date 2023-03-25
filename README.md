@@ -22,7 +22,7 @@ Egypt has one of the best beaches in the world (Mediterranean Sea & Red sea), wh
 The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
 This section introduces the user to Tour Egypt with an eye catching animation to grab their attention showing the Great Pyramids of GIZA.
 
-<img src="asset/images/3.JPG" alt="Tour Egypt" width="500" height="300">
+<img src="asset/images/3.JPG" alt="Tour Egypt" width="800" height="300">
 
 # Places to visit Section
 
