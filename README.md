@@ -82,7 +82,9 @@ I confirm that the color and fonts chossen are easy to read and accessible by ru
 <img src="asset/images/m2.JPG" alt="Tour Egypt" width="600" height="300">
 
 # Unfixed Bugs
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+
+While deploment of the project, alot of bugs shown up, that required alot of fixing and adjusting the code.but none of the bugs where left unfixed, most of bugs are dealt with, and got fixed. alot of technologies have been used in this site like media query section, animation that gives alot of nice effects to the site.
+
 
 # Deployment
 
