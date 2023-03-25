@@ -79,7 +79,7 @@ No errors were found when passing through the official (Jigsaw) validator
 ## Accessibility 
 I confirm that the color and fonts chossen are easy to read and accessible by running it through lighthouse in 
 
-<img src="asset/images/8.JPG" alt="Tour Egypt" width="800" height="400">
+<img src="asset/images/8.JPG" alt="Tour Egypt">
 
 # Unfixed Bugs
 
