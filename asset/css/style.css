@@ -472,6 +472,7 @@ footer>h3 {
     .left-about-heading h2, .right-about-heading h2 {
         width:100%;
         text-align: center;
+        padding-top:10px;
     }
     .left-about-heading p, .right-about-heading p{
         text-align: center;
