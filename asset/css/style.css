@@ -281,7 +281,7 @@ animation-fill-mode: forwards;
 
 #weather {
     height: 600px;
-    background-color: aqua;
+    background-color: rgba(98, 154, 154, 0.762);
 }
 
 #weather>h2 {
@@ -290,6 +290,7 @@ animation-fill-mode: forwards;
     padding-bottom: 50px;
     text-decoration: underline;
     font-size: 200%; 
+    background-color: rgba(60, 60, 60, 0.6);
 }
 
 #left-about {
@@ -339,6 +340,7 @@ hr {
     margin: 0 auto;
     overflow: hidden;
     padding-bottom: 300px;
+    padding-top: 20px;
 
 
 }
@@ -603,6 +605,7 @@ footer>h3 {
     .left-about-heading h2, .right-about-heading h2 {
         width:100%;
         text-align: center;
+        padding-top:10px;
     }
     .left-about-heading p, .right-about-heading p{
         text-align: center;
