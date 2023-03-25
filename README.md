@@ -29,7 +29,7 @@ This section introduces the user to Tour Egypt with an eye catching animation to
 The Places to visit section will allow the user to see the varity of location they can visit when they are in Egypt, giving them a small view of the beauty of each location and what specialize that location. 
 This user will see the value of varity to have in one place, This should encourage the user to consider going not just for the weather and beautiful beaches but also for the history that spread in every location you are in Egypt.
 
-<img src="asset/images/4.JPG" alt="Tour Egypt" width="800" height="300">
+<img src="asset/images/9.JPG" alt="Tour Egypt" width="800" height="300">
 
 # Best time to visit section
 
@@ -79,7 +79,7 @@ No errors were found when passing through the official (Jigsaw) validator
 ## Accessibility 
 I confirm that the color and fonts chossen are easy to read and accessible by running it through lighthouse in 
 
-<img src="asset/images/m2.JPG" alt="Tour Egypt" width="600" height="300">
+<img src="asset/images/8.JPG" alt="Tour Egypt" width="600" height="300">
 
 # Unfixed Bugs
 
